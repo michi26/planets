@@ -1,4 +1,10 @@
+
+
 Cold and dry, but everything is my favorite color. 
 The two moons may be a problem for Wolfman.
 Mummy will appreciate the lack of humdity.
+<<<<<<< HEAD
 This is a new line in my copy.
+=======
+This is a new line that will break 
+>>>>>>> 054b43c78bae9b06c685a0dc5e71b1f9ba915e50
